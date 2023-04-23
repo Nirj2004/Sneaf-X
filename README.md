@@ -1,4 +1,4 @@
-<p align-items="center"><img width="512" height="350" src="https://cdn0.iconfinder.com/data/icons/it-components/24/ethernet_plug_network_port_2-512.png![image](https://user-images.githubusercontent.com/75828293/233865343-b4bc70cc-5bb5-4172-9db9-640aec70e262.png)
+<p align-items="center"><img width="512" height="350" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn0.iconfinder.com%2Fdata%2Ficons%2Fit-components%2F24%2Fethernet_plug_network_port_2-512.png&f=1&nofb=1&ipt=1cc0d589eae1256d4c0e9fd4fb2ffb0b7da16ca3b9def582180d006679718f1f&ipo=images
 "></p>
 
 
