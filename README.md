@@ -1,4 +1,5 @@
-<p align-items="left"><img width="512" height="350" src="https://user-images.githubusercontent.com/75828293/233865267-ede9321a-5c7c-4098-8eb2-e828317b6963.png)"></p>
+<p align-items="center"><img width="512" height="350" src="https://cdn0.iconfinder.com/data/icons/it-components/24/ethernet_plug_network_port_2-512.png![image](https://user-images.githubusercontent.com/75828293/233865343-b4bc70cc-5bb5-4172-9db9-640aec70e262.png)
+"></p>
 
 
 
