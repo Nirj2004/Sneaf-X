@@ -1,5 +1,4 @@
-<p align-items="center"><img width="512" height="350" src="http://pluspng.com/img-png/png-hd-magnifying-glass-a-simple-magnifying-glass-2400.png![image](https://user-images.githubusercontent.com/75828293/233865515-b81fc7d2-5404-4eb8-a73d-cde73f9723fa.png)
-"></p>
+![Image](logo.jpg)
 
 
 
