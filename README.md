@@ -5,9 +5,9 @@
 
 Sneaf-X
 ------
-Sneaf-X is an Advanced Network traffic sniffer
+Sneaf-X is an Advanced Network Traffic Sniffer tool.
 
-### Aim
+### Concept
 Proof of concept of detecting Network traffic. Could be used for the improvement of the network security. Or, for the censorship against Sneaf-X. Either way, it is better to expose the vulnerabilities in advance and take the initiative.
 
 ### Usage
